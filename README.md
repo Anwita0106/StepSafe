@@ -96,7 +96,6 @@ The system models a city as a graph and applies classical data structures and al
 ## Authors
 
 **Pranayaa C**
-
 **Anwita Padhi**
 
 ---
