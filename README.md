@@ -76,7 +76,6 @@ The system models a city as a graph and applies classical data structures and al
 
 * Efficient route optimization
 * Fast path computation
-* No dependency on AI services
 * Demonstrates practical applications of data structures
 * Easy to understand and extend
 * Suitable for educational and simulation purposes
