@@ -9,6 +9,7 @@ https://step-safe.vercel.app/
 
 ## Overview
 
+
 StepSafe is a web-based Disaster Rescue Navigation System designed to assist emergency response teams in identifying the safest and shortest routes during disaster situations.
 
 The system models a city as a graph and applies classical data structures and algorithms such as Graphs, Queues, Stacks, Priority Queues, BFS, DFS, and Dijkstra's Algorithm to optimize rescue operations. It demonstrates how fundamental computer science concepts can be used to solve real-world emergency navigation problems.
