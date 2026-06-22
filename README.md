@@ -88,7 +88,6 @@ The system models a city as a graph and applies classical data structures and al
 * GPS integration
 * Real-time disaster monitoring
 * IoT sensor connectivity
-* Cloud database support
 * Multi-team rescue coordination
 * AI-assisted route prediction
 
